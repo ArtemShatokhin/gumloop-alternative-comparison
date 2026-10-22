@@ -12,9 +12,9 @@ This repository is a source-cited comparison for teams weighing a Gumloop altern
 | Where it runs | Kortix Cloud, your VPC, or on-prem; self-host free | Gumloop's cloud only | Your own infrastructure (Docker) or n8n Cloud | Zapier's cloud only |
 | Configuration ownership | Files in a git repo you own | In Gumloop's product | Workflows in the n8n instance you run | In Zapier's product |
 | Model choice | Any model provider with your own keys | Models Gumloop provides | Any model; swap cloud or offline | AI by Zapier, or bring your own model |
-| Price shape | Seats plus pooled credits; self-host free | Credits; no self-host | Executions; self-host free | Tasks; every step spends one |
+| Price shape | Credits, unlimited free members; self-host free | Credits; no self-host | Executions; self-host free | Tasks; every step spends one |
 
-Entry pricing, checked October 2026: Kortix is free to self-host, with a cloud Free plan at $0 and the Team plan at $40 per seat per month ([Kortix pricing](https://kortix.com/pricing)). Gumloop Pro starts at $37 per month ([gumloop.com/pricing](https://www.gumloop.com/pricing)). n8n is free to self-host, with Cloud Starter from 24€ per month ([n8n.io/pricing](https://n8n.io/pricing)). Zapier is free to start, with Professional from $19.99 per month ([zapier.com/pricing](https://zapier.com/pricing)).
+Entry pricing, checked October 2026: Kortix is free to self-host, with a cloud Free plan at $0 that includes 500 credits a month, and paid credits at 100 per dollar ([Kortix pricing](https://kortix.com/pricing)). Gumloop Pro starts at $37 per month ([gumloop.com/pricing](https://www.gumloop.com/pricing)). n8n is free to self-host, with Cloud Starter from 24€ per month ([n8n.io/pricing](https://n8n.io/pricing)). Zapier is free to start, with Professional from $19.99 per month ([zapier.com/pricing](https://zapier.com/pricing)).
 
 ## How to choose
 
